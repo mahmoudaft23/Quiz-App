@@ -53,11 +53,11 @@ body {
 }
 
 .choice-button.correct {
-  background-color: #28a745; /* bright green */
+  background-color: #28a745;
 }
 
 .choice-button.wrong {
-  background-color: #dc3545; /* red */
+  background-color: #dc3545;
 }
 
 .choice-button.disabled {
